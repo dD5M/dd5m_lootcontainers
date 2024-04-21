@@ -1,0 +1,22 @@
+{
+    "target": {
+        "label": "Break In"
+    },
+    "notifies": {
+        "you_got": "You broke into the container and got %{items}",
+        "got_nothing": "You broke into the container and got nothing",
+        "failed_minigame": "You failed to break into the container.",
+        "canled_progress": "You cancelled your action.",
+        "hurt_yourself": "You hurt yourself breaking into the container.",
+        "already_dived": "This container was already robbed."
+    },
+    "progress": {
+        "diving": "Robbing the container"
+    },
+    "police": {
+        "message": "Criminal Activity",
+        "code": "10-00",
+        "bliptitle": "Theft"
+    }
+}
+
